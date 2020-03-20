@@ -1,5 +1,7 @@
 Component({
-    properties: {},
+    properties: {
+        grid: Array
+    },
     data: {},
     methods: {}
 });
